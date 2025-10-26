@@ -1,2 +1,7 @@
-# alx-airbnb-project-documentation
-This comprehensive feature documentation covers all major functionalities required for a production-ready AirBnB Clone backend system.
+# ALX AirBnB Project Documentation
+
+## 📋 Overview
+
+This repository contains comprehensive documentation for the ALX AirBnB Clone project, including features, functionalities, use cases, and technical specifications.
+
+## 📁 Repository Structure
